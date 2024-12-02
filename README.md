@@ -29,3 +29,12 @@ Using cached opencv_python-4.10.0.84-cp37-abi3-win_amd64.whl (38.8 MB)
 Using cached numpy-2.1.3-cp312-cp312-win_amd64.whl (12.6 MB)
 Installing collected packages: numpy, opencv-python
 Successfully installed numpy-2.1.3 opencv-python-4.10.0.84
+
+
+(base) (mynew_venv) C:\Users\kimseonghyun\Downloads\241202wondetection\src\test_demo>conda install pytorch torchvision torchaudio cpuonly -c pytorch
+Channels:
+ - pytorch
+ - defaults
+ - conda-forge
+Platform: win-64
+Collecting package metadata (repodata.json): /
